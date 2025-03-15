@@ -8,7 +8,7 @@ public class NewBehaviourScript : MonoBehaviour
 {
     private Rigidbody2D rb;
     public int speed = 5;
-    public string nextLevel = "Scene_2";
+    public string nextLevel = "Geo_Quest 2";
     // Start is called before the first frame update
     private void OnTriggerEnter2D(Collider2D collision)
     {
